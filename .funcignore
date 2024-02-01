@@ -1,0 +1,9 @@
+.git*
+.vscode
+local.settings.json
+test
+.venv
+DailyRequests
+StoreTrendAnalysis
+WeeklyAutoApproval
+ClearTableLogs-Trigger
